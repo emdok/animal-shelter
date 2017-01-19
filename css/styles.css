@@ -1,3 +1,19 @@
+@media screen and (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+  .column {
+  width: 100%;
+  float: left;
+  padding: 20px;
+}
+}
+@media screen and (max-width: 480px) {
+  body {
+    background-color: teal;
+  }
+}
 img {
   width: 100%;
 }
