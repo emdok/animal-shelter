@@ -11,6 +11,7 @@ This is a site that Emily Dokkena and Jerry Taylor built to practice using HTML 
 ## Setup/Installation Requirements
 
 View the Page at this GitHub Pages link here:
+https://emdok.github.io/animal-shelter/
 
 ## Support and contact details
 
